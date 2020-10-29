@@ -1,0 +1,1 @@
+To install any library from internet will get the command. To execute that command from pycharm we can execute.
