@@ -5,7 +5,7 @@ class name:
 
 x=name()
 
-print("***************************")
+print("************Constructor with values***************")
 
 class cons:
     def __init__(self,val1,val2):

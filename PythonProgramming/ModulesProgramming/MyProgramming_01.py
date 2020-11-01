@@ -1,10 +1,16 @@
-import ModulesProgramming.MyModules
+import PythonProgramming.ModulesProgramming.MyModules
 
-ModulesProgramming.MyModules.hello_world()
+PythonProgramming.ModulesProgramming.MyModules.hello_world()
 
-ModulesProgramming.MyModules.val()
+PythonProgramming.ModulesProgramming.MyModules.val()
 
+PythonProgramming.ModulesProgramming.MyModules
+
+# Below test() is own function
 def test():
     print("Its own value")
 
 test()
+
+
+

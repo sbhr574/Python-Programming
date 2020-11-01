@@ -16,15 +16,15 @@ class classB():
 
 # Below two classes are example of MRO(Method Resolution Order)
 
-class classC(classA,classB):
+class classC(classA,classB): # Multiple Inheritance
 
     def love3(self):
-        print("Method from class c")
+        print("Method from class C")
 
-class classD(classC):
+class classD(classC): # MultiLevel Inheritance
 
     def love4(self):
-        print("Method from class c")
+        print("Method from class D")
 
 obj=classD()
 obj.welcome()

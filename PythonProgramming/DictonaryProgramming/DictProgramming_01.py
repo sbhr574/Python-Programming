@@ -22,6 +22,9 @@ print(emp3['Dev']['Backend'])
 emp3['Manager']='susmita'
 print(emp3)
 
+emp3['Dev']['GUI'] = 'Manoj'
+print(emp3)
+
 # process to update new value on existing key
 emp3['Manager'] = 'Roy'
 print(emp3)

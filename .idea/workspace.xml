@@ -1,22 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ecfaaa62-59f4-4e2d-a7f6-e43722e8272f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/python.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/pythonw.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/venv/Scripts/pythonw.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProgramming/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/Constructor_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/Super_KeyWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/DictonaryProgramming/DictProgramming_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/DictonaryProgramming/DictProgramming_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/ModulesProgramming/MyProgramming_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/ModulesProgramming/MyProgramming_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/ModulesProgramming/MyProgramming_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/ModulesProgramming/MyProgramming_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/ModulesProgramming/MyProgramming_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/ModulesProgramming/MyProgramming_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/ModulesProgramming/SubModulePackage/MySubModules.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/ModulesProgramming/SubModulePackage/MySubModules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/Constructor_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/Constructor_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/Hybrid_Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/Hybrid_Inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/MultiLavel_Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/MultiLavel_Inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/Multiple_Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/Multiple_Inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/SingleLavel_Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/OOPS_Concept/SingleLavel_Inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/TupleProgramming/TupleProgramming_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/TupleProgramming/TupleProgramming_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,8 +61,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.WhileLoop_02">
-    <configuration name="BasicStringProgramming_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Subhajit\PycharmProjects\Python-Programming\PythonProgramming\Assert_Programming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.DataHiding_01">
+    <configuration name="AppendOnTextFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/StringProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/Read_Write_Operation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/StringProgramming/BasicStringProgramming_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/Read_Write_Operation/AppendOnTextFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictProgramming_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DataHiding_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/DictonaryProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/DataHiding_Operation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/DictonaryProgramming/DictProgramming_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/DataHiding_Operation/DataHiding_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ForLoop_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FileCloseOperation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/ForLoopProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/Read_Write_Operation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/ForLoopProgramming/ForLoop_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/Read_Write_Operation/FileCloseOperation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadOperation_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/Api_Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/Read_Write_Operation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/Api_Testing/Test_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/Read_Write_Operation/ReadOperation_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="WhileLoop_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="WriteOperation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/WhileLoopProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProgramming/Read_Write_Operation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/WhileLoopProgramming/WhileLoop_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProgramming/Read_Write_Operation/WriteOperation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.WhileLoop_02" />
-        <item itemvalue="Python.Test_01" />
-        <item itemvalue="Python.ForLoop_01" />
-        <item itemvalue="Python.BasicStringProgramming_01" />
-        <item itemvalue="Python.DictProgramming_01" />
+        <item itemvalue="Python.DataHiding_01" />
+        <item itemvalue="Python.AppendOnTextFile" />
+        <item itemvalue="Python.WriteOperation" />
+        <item itemvalue="Python.FileCloseOperation" />
+        <item itemvalue="Python.ReadOperation_01" />
       </list>
     </recent_temporary>
   </component>
@@ -158,26 +193,38 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603942061531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603942061531" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1603942733263">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1604201144728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603942733263" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1603942733263">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604201144728" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1604201144728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603942733263" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1603942733263">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604201144728" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1604201144728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603942733263" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1603942733263">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604201144728" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1604201144728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603942733263" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604201144728" />
   </component>
 </project>

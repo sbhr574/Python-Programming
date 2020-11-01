@@ -3,7 +3,7 @@ class Base:
     def from_Base(self):
         print("Executing from base")
 
-class child(Base):
+class child(Base): #child class extended Base class
     lname = 'Roy'
     def from_child(self):
         print("Executing from child")

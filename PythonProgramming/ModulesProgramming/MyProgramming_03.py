@@ -1,3 +1,3 @@
-from ModulesProgramming.SubModulePackage.MySubModules import welcome
+from PythonProgramming.ModulesProgramming.SubModulePackage.MySubModules import welcome
 
 welcome()

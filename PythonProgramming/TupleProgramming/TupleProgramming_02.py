@@ -24,13 +24,12 @@ print("********************************************")
 list1 = [(10,23,34),('si',23,'ger'),(78,56.4,556)]
 print(list1[1])
 print(list1[2][2])
-print("********************************************")
-# Tuple creation with tuple constractor
+print("********************# Tuple creation with tuple constructor************************")
+
 tup = tuple(['Java','Python','DB','Jango'])
 print(type(tup))
 print(tup[2])
-print("********************************************")
-# tuple unpacking Important topic
+print("****************# tuple unpacking Important topic****************************")
 tup1 = tuple(['Java','Python','DB','Jango'])
 x,y,z,d=tup1 # Make sure exact number of variables need to use during tuple unpacking
 print(y)
