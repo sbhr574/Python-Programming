@@ -3,7 +3,7 @@ print(type(val1))
 print(val1)
 print(val1.index('java'))
 print(val1[3])
-# Negetive indexing is present
+# Negative indexing is present
 print(val1[-1])
 print('*************************************')
 
