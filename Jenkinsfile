@@ -10,5 +10,6 @@ pipeline {
   }
   environment {
     ENV1 = 'Test'
+    ENV2 = 'build'
   }
 }
