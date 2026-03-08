@@ -1,3 +1,4 @@
+#Basic concept of oops concept
 class Place:
     country = ""
 
